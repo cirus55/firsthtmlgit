@@ -1,0 +1,38 @@
+
+.main-bio {
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    padding: 10px;
+}
+
+div.container {
+    padding: 10px;
+    background-color: blanchedalmond; 
+    height: 300px;
+}
+
+.bio {
+    width: 50%;
+    position: relative;
+    left: 10px;
+}
+
+p {
+    position: relative;
+    width: 55%;
+    top: -200px;
+    left: 300px;
+}
+
+img {
+    position: relative; 
+    left: 50px;
+}
+
+.contact-info {
+    width: 50%; 
+    position: relative;
+    top: -400px;
+    left: 60%;  
+}
